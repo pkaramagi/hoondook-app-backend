@@ -25,3 +25,5 @@ sql files/hdkapi_category.sql
 sql files/hdkapi_diary.sql
 sql files/hdkapi_tpwords.sql
 db.sqlite3
+hdkapi/__init__.py
+hdkapi/tests.py
